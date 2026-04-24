@@ -38,12 +38,5 @@ As a non-technical founder and AI practitioner, I utilize a "Multi-Model" develo
 
 ---
 
-## 📺 Product Demonstration
-Below is a walkthrough of the IntelliHire interface, showcasing the IntelliSearch pipeline and IntelliAnalysis features in action.
-
-[DRAG AND DROP YOUR VIDEO FILE HERE]
-
----
-
 ## 💡 Why I Built This
 Traditional recruitment platforms often struggle with the nuances of technical roles. IntelliHire is my attempt to bridge the gap between high-scale data processing and the "human intuition" I've developed over 15 years in the industry. It is built by a recruiter, for recruiters.

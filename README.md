@@ -52,3 +52,7 @@ While I missed the earlier IT and internet revolutions, to some extent, I am det
 
 While this project focused on recruitment, my confidence in building for other sectors is rooted in my natural ability to quickly grasp the logic and nuances of diverse industries. AI has effectively removed the technical friction, allowing me to translate my multidisciplinary understanding into functional, high-scale software solutions. To me, AI is the ultimate equalizer, shifting the focus from technical limitations to the ability to understand and architect complex systems.
 
+---
+
+## 📈 Evolution of the Project
+IntelliHire began as a specialized Chatbot inspired by Google Gemini Gems. While that initial prototype successfully demonstrated the potential of LLMs in recruitment, internal feedback highlighted the need for a more robust, multi-functional tool. This led to a complete pivot and the architecture of the current suite, moving from simple UI-wrapped prompts to a sophisticated 270M vector retrieval-augmented generation (RAG) pipeline.

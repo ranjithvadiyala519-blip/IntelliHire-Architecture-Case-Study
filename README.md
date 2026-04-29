@@ -1,7 +1,14 @@
-# IntelliHire: Bridging Talent Acquisition Strategy with AI Intelligence
+# MythriAI: Bridging Talent Acquisition Strategy with AI Intelligence
 
 ## 📌 Project Overview
 IntelliHire is a comprehensive AI-powered application designed from a recruiter's perspective to streamline the end-to-end hiring workflow. Having spent 15 years in the US IT Recruitment industry, I built this suite to address specific gaps in traditional search and analysis tools—focusing on contextual understanding rather than just keyword matching.
+
+---
+
+## 📺 Product Demonstration (Video Case Study)
+[![From Prompt to Platform: Architecting a 270M Vector AI Suite](https://img.youtube.com/vi/n2lnWS7cLy4/maxresdefault.jpg)](https://www.youtube.com/watch?v=n2lnWS7cLy4)
+
+*Click the image above to watch the 10-minute architectural deep-dive, detailing the evolution from a simple LLM prompt to a high-scale 270M vector enterprise suite.*
 
 ---
 
